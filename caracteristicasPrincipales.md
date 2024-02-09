@@ -7,6 +7,7 @@ Mide la cantidad de datos que el sistema de almacenamiento puede contener, expre
 
 ## Rendimiento ⚡
 Evalúa la rapidez y eficiencia del sistema de almacenamiento de datos, considerando factores como la velocidad de lectura/escritura, latencia y transferencia de datos.
+<img src="img/remdimi.jpeg" alt="Descripción de la imagen" width="300"/>
 
 ## Fiabilidad 🛡️
 Se refiere a la disponibilidad de los datos cuando son requeridos, así como a la presencia de una baja tasa de errores o fallos. Estrategias como la configuración RAID se utilizan para mejorar la fiabilidad.
