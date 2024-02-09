@@ -1,3 +1,7 @@
+[![Forks proyecto](https://img.shields.io/badge/Forks-purple)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/forks)
+[![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/activity)
+[![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/graphs/contributors)
+
 # FHW-DispositivosAlmacenamiento
 
 Tarea: Periféricos
