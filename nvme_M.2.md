@@ -53,3 +53,10 @@ El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando
 ### ¿Por Qué NVMe M.2?
 
 Estos SSDs no solo ofrecen rendimiento, sino también un diseño compacto y sin cables. ¡Experimenta la revolución del almacenamiento con NVMe M.2 y lleva tu computadora a nuevas alturas! 🚀
+
+
+
+
+## Enlaces utilizados
+https://www.pccomponentes.com/que-es-nvme-en-ssd-deberia-tenerlo
+https://www.kingston.com/es/blog/pc-performance/two-types-m2-vs-ssd
