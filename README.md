@@ -2,11 +2,11 @@
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/activity)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/graphs/contributors)
 
+# DISPOSITIVOS DE ALMACENAMIENTO
+
 <img src="img/portada.jpg" alt="DispositivosAlmacenamiento" width="900px">
 
 > En este proyecto hablaremos un poco sobre los diferentes tipos de dispositivos de almacenamiento que existen.
-
-# DISPOSITIVOS DE ALMACENAMIENTO
 
 Tarea: Periféricos
 
