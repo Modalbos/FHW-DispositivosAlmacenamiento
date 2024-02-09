@@ -4,7 +4,7 @@
 
 # DISPOSITIVOS DE ALMACENAMIENTO
 
-<img src="img/portada.jpg" alt="DispositivosAlmacenamiento" width="900px">
+<img src="img/portada.jpg" alt="DispositivosAlmacenamiento" width="700px">
 
 > En este proyecto hablaremos un poco sobre los diferentes tipos de dispositivos de almacenamiento que existen.
 
