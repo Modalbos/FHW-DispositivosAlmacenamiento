@@ -2,9 +2,9 @@
 
 ## Capacidad 📊
 Mide la cantidad de datos que el sistema de almacenamiento puede contener, expresada en bytes (habitualmente Gigabytes o Terabytes).
-
+<center>
 <img src="img/capa.jpg" alt="Descripción de la imagen" width="300"/>
-
+</center>
 ## Rendimiento ⚡
 Evalúa la rapidez y eficiencia del sistema de almacenamiento de datos, considerando factores como la velocidad de lectura/escritura, latencia y transferencia de datos.
 <img src="img/remdimi.jpeg" alt="Descripción de la imagen" width="300"/>
