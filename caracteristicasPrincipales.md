@@ -2,7 +2,6 @@
 
 ## Capacidad 📊
 Mide la cantidad de datos que el sistema de almacenamiento puede contener, expresada en bytes (habitualmente Gigabytes o Terabytes).
-<center>
 <img src="img/capa.jpg" alt="Descripción de la imagen" width="300"/>
 </center>
 ## Rendimiento ⚡
