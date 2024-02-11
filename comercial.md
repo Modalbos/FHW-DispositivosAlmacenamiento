@@ -1,6 +1,6 @@
-# Disco HDD
+# 💻 Disco HDD
 
-### Western Digital Blue HDD 1TB 7200rpm SATA3
+## Western Digital Blue HDD 1TB 7200rpm SATA3
 
 Marca: Western Digital
 
