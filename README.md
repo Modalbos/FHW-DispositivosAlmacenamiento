@@ -2,7 +2,7 @@
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/activity)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/FHW-DispositivosAlmacenamiento/graphs/contributors)
 
-# DISPOSITIVOS DE ALMACENAMIENTO
+# DISCOS DUROS
 
 <img src="img/portada.jpeg" alt="DispositivosAlmacenamiento" width="900px" height="600">
 
