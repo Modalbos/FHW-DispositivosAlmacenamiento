@@ -23,9 +23,17 @@
 
 ## Samsung 970 EVO Plus
 
-- **🚀 Velocidades Asombrosas:** Disfruta de velocidades de lectura de hasta 3,500 MB/s y escritura de 3,300 MB/s.
-- **🔥 Rendimiento sin Compromisos:** Perfecto para gaming y edición de contenido gracias a su alta velocidad y baja latencia.
-- **💡 Tecnología V-NAND 3-bit MLC:** Mayor durabilidad y eficiencia energética para un rendimiento constante.
+* 💾 **Capacidad de almacenamiento:** 1TB
+
+* 🚀 Velocidades Asombrosas:** velocidades de lectura de hasta 3,500 MB/s y escritura de 3,300 MB/s.
+  
+* 🔥 Rendimiento sin Compromisos:** Perfecto para gaming y edición de contenido gracias a su alta velocidad y baja latencia.
+
+* 🔌 **Interfaz de conexión:** PCI Express 3.0.
+
+* 📊 **Tamaño:** Ancho: 80,2 mm Profundidad: 2,38 mm Altura: 22,1 mm"
+
+* 💰 **Precio:** 95,99€
 
 <img src="img/samsung-970-evo-plus-1tb-removebg-preview.png" alt="Descripción de la imagen" width="300"/>
 </center>
