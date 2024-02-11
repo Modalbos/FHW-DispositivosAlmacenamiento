@@ -19,19 +19,6 @@ El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando
 
 🚀 ¡Experimenta el futuro del almacenamiento con SSD NVMe M.2!
 
-# Ejemplos comerciales
-
-# 💻 SSD NVMe M.2: ¡algunos ejemplos que puedes comprar!
-
-## 1. Samsung 970 EVO Plus
-
-- **🚀 Velocidades Asombrosas:** Disfruta de velocidades de lectura de hasta 3,500 MB/s y escritura de 3,300 MB/s.
-- **🔥 Rendimiento sin Compromisos:** Perfecto para gaming y edición de contenido gracias a su alta velocidad y baja latencia.
-- **💡 Tecnología V-NAND 3-bit MLC:** Mayor durabilidad y eficiencia energética para un rendimiento constante.
-
-<img src="img/samsung-970-evo-plus-1tb-removebg-preview.png" alt="Descripción de la imagen" width="300"/>
-</center>
-
 ### ¿Por Qué NVMe M.2?
 
 Estos SSDs no solo ofrecen rendimiento, sino también un diseño compacto y sin cables. ¡Experimenta la revolución del almacenamiento con NVMe M.2 y lleva tu computadora a nuevas alturas! 🚀
