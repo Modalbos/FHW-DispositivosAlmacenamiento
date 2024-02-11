@@ -10,6 +10,8 @@ Velocidad de rotación: 7200rpm
 
 Interfaz de conexión: SATA3
 
+Tamaño del HDD: 3.5"
+
 Precio: 56,10€
 
 **Enlace al hacer click en la imagen**
