@@ -13,5 +13,6 @@ Interfaz de conexión: SATA3
 Precio: 56,10€
 
 **Enlace al hacer click en la imagen**
+
 [![Disco](img/midisco_n.jpg)](https://www.pccomponentes.com/western-digital-blue-hdd-1tb-7200rpm-sata3)
 
