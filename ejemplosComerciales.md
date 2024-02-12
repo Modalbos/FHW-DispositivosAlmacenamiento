@@ -1,3 +1,5 @@
+# EJEMPLOS COMERCIALES:
+
 # 1. 💻 Disco HDD
 
 ## 📀 Western Digital Blue HDD 1TB 7200rpm SATA3
