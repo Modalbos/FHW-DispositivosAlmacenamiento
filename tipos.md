@@ -1,6 +1,6 @@
----
+----
 
- HDD
+# HDD
 
 > Un disco duro (HDD, por sus siglas en inglés "Hard Disk Drive") es un dispositivo de almacenamiento no volátil que utiliza discos magnéticos para almacenar datos.
 
@@ -18,7 +18,7 @@ A continuación, se presentan algunas de las características principales de los
 
 5. **Formato de tamaño:** Los discos duros están disponibles en diferentes tamaños físicos, siendo los más comunes los de 3.5 pulgadas para computadoras de escritorio y los de 2.5 pulgadas para laptops.
 
----
+----
 
 # SSD NVMe M.2:
 
