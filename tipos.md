@@ -1,4 +1,6 @@
-# HDD
+# TIPOS
+
+## HDD
 
 > Un disco duro (HDD, por sus siglas en inglés "Hard Disk Drive") es un dispositivo de almacenamiento no volátil que utiliza discos magnéticos para almacenar datos.
 
@@ -18,15 +20,15 @@ A continuación, se presentan algunas de las características principales de los
 
 ----
 
-# SSD
+## SSD
 
 ----
 
-# SSD NVMe M.2:
+## SSD NVMe M.2:
 
 El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando una interfaz NVMe eficiente con un formato compacto y un rendimiento excepcional. Su versatilidad lo convierte en la elección perfecta para diversas aplicaciones, desde sistemas operativos hasta experiencias multimedia y juegos intensivos.
 
-## Características:
+### Características:
 
 * **Interfaz NVMe:** Eficiencia y velocidad de vanguardia.
 * **Formato M.2:** Diseño compacto y sin cables.
@@ -35,7 +37,7 @@ El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando
 * **Diversas Capacidades:** Desde pequeñas a grandes, se adapta a tus necesidades.
  <img src="img/m2.png" width="300"/>
 
-## Uso Común:
+### Uso Común:
 
 * **Almacenamiento de SO:** Arranques rápidos y eficiencia.
 * **Edición Multimedia:** Fluidez en el manejo de grandes archivos.
@@ -43,6 +45,6 @@ El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando
 
 🚀 ¡Experimenta el futuro del almacenamiento con SSD NVMe M.2!
 
-## ¿Por Qué NVMe M.2?
+### ¿Por Qué NVMe M.2?
 
 Estos SSDs no solo ofrecen rendimiento, sino también un diseño compacto y sin cables. ¡Experimenta la revolución del almacenamiento con NVMe M.2 y lleva tu computadora a nuevas alturas! 🚀
