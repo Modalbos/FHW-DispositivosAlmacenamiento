@@ -8,20 +8,24 @@
 
 > En este proyecto hablaremos un poco sobre los diferentes tipos de dispositivos de almacenamiento que existen.
 
-Tarea: Periféricos
+## ÍNDICE
 
-Debe seguir el siguiente menú:
+1. [Definición del períférico](definicion.md)
 
-1.- Definición del períférico (Con una imagen) - Alejandro
-
-2.-Características principales  (Breves) - Ildefonso
+2. [Características principales](caracteristicas.md)
  
-3.- Tipos - Jesús, Alejandro e Ildefonso
+3. [Tipos](tipos.md)
 
-4.- Ejemplos comerciales (Explicando las características) - Jesús, Alejandro e Ildefonso
+4. [Ejemplos comerciales](ejemplosComerciales.md)
 
-5.- Conclusiones - Jesús
+5. [Conclusiones](conclusiones.md)
 
-Hay añadir referencias, licencia y autores - Alejandro
+6. [Webgrafía](webgrafia.md)
 
-Posteriormente hay que exponer el trabajo.
+## AUTORES
+* Alejandro Montero Agroba
+* Jesús González Aragón
+* Ildefonso Sánchez Romero
+
+## LICENCIA
+![Licencia](img/licencia.png)
