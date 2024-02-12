@@ -6,8 +6,9 @@ Es un dispositivo de almacenamiento usado en ordenadores y que posee una tecnolo
 ## Ventajas y desventajas
 | Ventajas    | Desventajas  |
 |-----------|-----------|
-| Capaz de guardar una gran cantidad de datos |    |
-|      |      |
+| Capaz de guardar una gran cantidad de datos | Lentos a la hora de abrir aplicaciones o archivos de gran tamaño |
+| Tiene modelos que son bastante económicos |      |
+|  |  |
 
 
 ## Diferencia entre unidades internas y externas
