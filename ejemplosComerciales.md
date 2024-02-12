@@ -26,11 +26,25 @@
 
 ### 📀 Kingston A400 SSD 960 GB SATA3
 
+* 📄 **Marca:** Kingston
+
+* 📋 **Modelo:** A400
+
 * 💾 **Capacidad de almacenamiento:** 960 GB
   
-* 🚀 **Velocidades**
-  * **Lectura:** 500 MB/s
-  * **Escritura:** 320 MB/s
+* 🚀 **Velocidades:**
+  * **Lectura ->** 500 MB/s
+  * **Escritura ->** 320 MB/s
+  * **Transferencia de datos ->** 6 Gbit/s
+
+* 📏 **Factor de forma:** 2.5"
+
+* 💰 **Precio:** 56,99€
+
+**Enlace al hacer click en la imagen**
+
+[![Disco](img/ssdComercial.png)](https://www.pccomponentes.com/kingston-a400-ssd-960-gb-sata3)
+
 ----
 
 ## 3. 💻 SSD NVMe M.2
@@ -39,9 +53,9 @@
 
 * 💾 **Capacidad de almacenamiento:** 1TB
 
-* 🚀 Velocidades Asombrosas:** velocidades de lectura de hasta 3,500 MB/s y escritura de 3,300 MB/s.
+* 🚀 **Velocidades Asombrosas:** velocidades de lectura de hasta 3,500 MB/s y escritura de 3,300 MB/s.
   
-* 🔥 Rendimiento sin Compromisos:** Perfecto para gaming y edición de contenido gracias a su alta velocidad y baja latencia.
+* 🔥 **Rendimiento sin Compromisos:** Perfecto para gaming y edición de contenido gracias a su alta velocidad y baja latencia.
 
 * 🔌 **Interfaz de conexión:** PCI Express 3.0.
 
