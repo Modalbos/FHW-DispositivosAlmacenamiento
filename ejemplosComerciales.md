@@ -43,7 +43,7 @@
 
 **Enlace al hacer click en la imagen**
 
-<img src="img/ssdComercial.png" href="https://www.pccomponentes.com/kingston-a400-ssd-960-gb-sata3" width="400" height="300" >
+
 
 ----
 
