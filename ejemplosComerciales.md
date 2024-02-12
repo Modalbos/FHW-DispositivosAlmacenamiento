@@ -1,8 +1,8 @@
 # EJEMPLOS COMERCIALES:
 
-# 1. 💻 Disco HDD
+## 1. 💻 Disco HDD
 
-## 📀 Western Digital Blue HDD 1TB 7200rpm SATA3
+### 📀 Western Digital Blue HDD 1TB 7200rpm SATA3
 
 * 📄 **Marca:** Western Digital
 
@@ -22,13 +22,13 @@
 
 ----
 
-# 2. 💻 Disco SSD
+## 2. 💻 Disco SSD
 
 ----
 
-# 3. 💻 SSD NVMe M.2
+## 3. 💻 SSD NVMe M.2
 
-## 📀 Samsung 970 EVO Plus
+### 📀 Samsung 970 EVO Plus
 
 * 💾 **Capacidad de almacenamiento:** 1TB
 
