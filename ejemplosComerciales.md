@@ -28,7 +28,7 @@
 
 * 💾 **Capacidad de almacenamiento:** 960 GB
   
-* 🚀 **Velocidades
+* 🚀 **Velocidades**
   * **Lectura:** 500 MB/s
   * **Escritura:** 320 MB/s
 ----
