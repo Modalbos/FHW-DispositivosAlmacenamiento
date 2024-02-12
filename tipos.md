@@ -22,11 +22,20 @@ A continuación, se presentan algunas de las características principales de los
 
 ## SSD
 
+> Las unidades de estado sólido o SSD (Solid State Drive) son una alternativa a los discos duros. La gran diferencia es que mientras los discos duros utilizan componentes mecánicos que se mueven, las SSD almacenan los archivos en microchips con memorias flash interconectadas entre sí.
+
+### Ventajas en diferentes áreas:
+
+* **Empresas:** Las empresas que trabajan con grandes cantidades de datos (como los entornos de programación, las empresas de análisis de datos o las compañías financieras) suelen confiar en las unidades SSD, ya que los tiempos de acceso y la velocidad de transferencia de archivos son fundamentales.
+* **Juegos:** Los ordenadores de juegos siempre han superado los límites de la tecnología actual, optando por equipos más caros para aumentar el rendimiento de los juegos. Esto es especialmente cierto para el almacenamiento, ya que los juegos modernos cargan y escriben constantemente archivos (texturas, mapas, niveles, personajes). Las nuevas consolas de juegos, como la PS5 y la Xbox Serie X, utilizan ahora unidades SSD en lugar de discos duros.
+* **Movilidad:** Las SSD requieren poca energía, lo que contribuye a mejorar la duración de la batería en los ordenadores portátiles y las tabletas. Además, resisten los impactos, lo que reduce la probabilidad de pérdida de datos en caso de caída de un dispositivo móvil.
+* **Servidores:** Los servidores de las empresas necesitan unidades SSD para obtener tiempos de lectura y escritura rápidos para servir adecuadamente a sus PC clientes.
+
 ----
 
-## SSD NVMe M.2:
+## SSD NVMe M.2
 
-El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando una interfaz NVMe eficiente con un formato compacto y un rendimiento excepcional. Su versatilidad lo convierte en la elección perfecta para diversas aplicaciones, desde sistemas operativos hasta experiencias multimedia y juegos intensivos.
+> El *SSD NVMe M.2* representa la vanguardia en almacenamiento sólido, combinando una interfaz NVMe eficiente con un formato compacto y un rendimiento excepcional. Su versatilidad lo convierte en la elección perfecta para diversas aplicaciones, desde sistemas operativos hasta experiencias multimedia y juegos intensivos.
 
 ### Características:
 
