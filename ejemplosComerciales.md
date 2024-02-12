@@ -43,7 +43,7 @@
 
 **Enlace al hacer click en la imagen**
 
-
+[![Disco](img/ssdComercial.png)](https://www.pccomponentes.com/kingston-a400-ssd-960-gb-sata3)
 
 ----
 
