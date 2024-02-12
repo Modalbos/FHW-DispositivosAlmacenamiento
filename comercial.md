@@ -35,4 +35,6 @@
 
 * 💰 **Precio:** 95,99€
 
+**Enlace al hacer click en la imagen**
+
 [![Disco](img/m2Comercial.png)]([https://www.pccomponentes.com/western-digital-blue-hdd-1tb-7200rpm-sata3](https://www.pccomponentes.com/samsung-970-evo-plus-1tb-ssd-nvme-m2)https://www.pccomponentes.com/samsung-970-evo-plus-1tb-ssd-nvme-m2)
