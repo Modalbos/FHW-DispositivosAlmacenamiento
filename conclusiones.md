@@ -1,1 +1,2 @@
 # CONCLUSIONES
+Las conclusiones que podemos sacar después de hacer estre trabajo es que a lo largo de la historia se ha evolucionado de una manera bestial en cuanto a la mejora en todos los aspectos de un disco duro. Desde las velocidades de transmisión que es lo que más notamos nosotros como usuario, hasta las dimensiones del periférico, las tecnologías que les van añadiendo y las velocidades de escritura y lectura que pueden llegar a alcanzar.
