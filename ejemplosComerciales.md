@@ -24,6 +24,13 @@
 
 ## 2. 💻 Disco SSD
 
+### 📀 Kingston A400 SSD 960 GB SATA3
+
+* 💾 **Capacidad de almacenamiento:** 960 GB
+  
+* 🚀 **Velocidades
+  * **Lectura:** 500 MB/s
+  * **Escritura:** 320 MB/s
 ----
 
 ## 3. 💻 SSD NVMe M.2
