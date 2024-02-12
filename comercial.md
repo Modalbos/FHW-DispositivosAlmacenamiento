@@ -16,10 +16,10 @@
 
 **Enlace al hacer click en la imagen**
 
-[![Disco](img/midisco_n.jpg)](https://www.pccomponentes.com/western-digital-blue-hdd-1tb-7200rpm-sata3)
+[![Disco](img/hddComercial.jpg)](https://www.pccomponentes.com/western-digital-blue-hdd-1tb-7200rpm-sata3)
 
 
-# 2. 💻 SSD NVMe M.2:
+# 3. 💻 SSD NVMe M.2:
 
 ## Samsung 970 EVO Plus
 
@@ -35,5 +35,4 @@
 
 * 💰 **Precio:** 95,99€
 
-<img src="img/samsung-970-evo-plus-1tb-removebg-preview.png" alt="Descripción de la imagen" width="300"/>
-</center>
+[![Disco](img/m2Comercial.png)]([https://www.pccomponentes.com/western-digital-blue-hdd-1tb-7200rpm-sata3](https://www.pccomponentes.com/samsung-970-evo-plus-1tb-ssd-nvme-m2)https://www.pccomponentes.com/samsung-970-evo-plus-1tb-ssd-nvme-m2)
