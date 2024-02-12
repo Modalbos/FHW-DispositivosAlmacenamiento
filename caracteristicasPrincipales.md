@@ -1,4 +1,6 @@
-# Características Principales 🚀
+# CARACTERÍSTICAS PRINCIPALES 🚀
+
+---
 
 ## Capacidad 📊
 
@@ -22,6 +24,8 @@ Se refiere a la disponibilidad de los datos cuando son requeridos, así como a l
 Es la capacidad del sistema para recuperar datos después de eventos como pérdida, borrado, corrupción u otros incidentes que impidan el acceso a los mismos.
 
 <img src="img/recuperabilidad.jpg" alt="Descripción de la imagen" width="300"/>
+
+---
 
 # Caracteristicas principales de cada tipo
 
