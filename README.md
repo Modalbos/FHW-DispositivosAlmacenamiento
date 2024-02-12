@@ -4,7 +4,7 @@
 
 # DISCOS DUROS
 
-![Portada](img/portada.jpeg)
+<img src="img/portada.jpeg"  width="900px" height="600" >
 
 > En este proyecto hablaremos un poco sobre los diferentes tipos de dispositivos de almacenamiento que existen.
 
