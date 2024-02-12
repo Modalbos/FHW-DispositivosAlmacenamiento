@@ -18,10 +18,15 @@
 
 [![Disco](img/hddComercial.jpg)](https://www.pccomponentes.com/western-digital-blue-hdd-1tb-7200rpm-sata3)
 
+----
 
-# 3. 💻 SSD NVMe M.2:
+# 2. 💻 Disco SSD
 
-## Samsung 970 EVO Plus
+----
+
+# 3. 💻 SSD NVMe M.2
+
+## 📀 Samsung 970 EVO Plus
 
 * 💾 **Capacidad de almacenamiento:** 1TB
 
