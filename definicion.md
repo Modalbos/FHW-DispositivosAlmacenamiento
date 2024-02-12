@@ -6,7 +6,7 @@ Es un dispositivo de almacenamiento usado en ordenadores y que posee una tecnolo
 ## Ventajas y desventajas
 | Ventajas    | Desventajas  |
 |-----------|-----------|
-|  |    |
+| Capaz de guardar una gran cantidad de datos |    |
 |      |      |
 
 
